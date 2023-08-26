@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-18T19:22:58 EEST" name="All Test Suite" finished-at="2023-08-18T19:23:20 EEST" duration-ms="22049">
+    <groups>
+    </groups>
+    <test started-at="2023-08-18T19:22:58 EEST" name="BuyProductFlow" finished-at="2023-08-18T19:23:20 EEST" duration-ms="22049">
+      <class name="Tests.BuyProductFlow">
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.BuyProductFlow@1817d444]" started-at="2023-08-18T19:22:58 EEST" name="openLoginPage" finished-at="2023-08-18T19:23:05 EEST" duration-ms="7939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="buyproductFlow()[pri:0, instance:Tests.BuyProductFlow@1817d444]" started-at="2023-08-18T19:23:05 EEST" name="buyproductFlow" finished-at="2023-08-18T19:23:18 EEST" duration-ms="12115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyproductFlow -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.BuyProductFlow@1817d444]" started-at="2023-08-18T19:23:18 EEST" name="closeBrowser" finished-at="2023-08-18T19:23:20 EEST" duration-ms="1946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.BuyProductFlow -->
+    </test> <!-- BuyProductFlow -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
